@@ -20,7 +20,7 @@ setup(
         'imageio==2.9.0',
         'imageio-ffmpeg==0.4.4',
         'moviepy==1.0.3',
-        'numpy==1.21.1',
+        'numpy==1.22.0',
         'Pillow==8.3.1',
         'proglog==0.1.9',
         'pycodestyle==2.7.0',
